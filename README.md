@@ -1,3 +1,3 @@
-# f290-gello-git
+# f290-Hello-git
 
 Este é um exemplo de repositório remoto.
